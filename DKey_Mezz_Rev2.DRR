@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: DKey_Mezz_Rev2.PcbDoc   11/7/2018  2:27:29 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top to Bottom
+ASCII RoundHoles File : DKey_Mezz_Rev2.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.254mm)                                           Round             73        PTH        0.00inch (0.00mm)
+T2      35mil (0.889mm)                                           Round             54        PTH        0.00inch (0.00mm)
+T3      35mil (0.899mm)                                           Round             16        PTH        0.00inch (0.00mm)
+T4      40mil (1.016mm)                                           Round             6         PTH        0.00inch (0.00mm)
+T5      41mil (1.029mm)                                           Round             2         PTH        0.00inch (0.00mm)
+T6      43mil (1.09mm)                                            Round             9         PTH        0.00inch (0.00mm)
+T7      45mil (1.151mm)                                           Round             4         PTH        0.00inch (0.00mm)
+T8      63mil (1.6mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T9      126mil (3.2mm)                                            Round             2         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              168
+
+Total Processing Time (hh:mm:ss) : 00:00:00
